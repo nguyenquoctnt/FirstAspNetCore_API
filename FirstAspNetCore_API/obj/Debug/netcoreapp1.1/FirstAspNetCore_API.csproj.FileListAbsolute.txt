@@ -1,0 +1,13 @@
+F:\___Project___\FirstAspNetCore_API\FirstAspNetCore_API\bin\Debug\netcoreapp1.1\FirstAspNetCore_API.deps.json
+F:\___Project___\FirstAspNetCore_API\FirstAspNetCore_API\bin\Debug\netcoreapp1.1\FirstAspNetCore_API.runtimeconfig.json
+F:\___Project___\FirstAspNetCore_API\FirstAspNetCore_API\bin\Debug\netcoreapp1.1\FirstAspNetCore_API.runtimeconfig.dev.json
+F:\___Project___\FirstAspNetCore_API\FirstAspNetCore_API\obj\Debug\netcoreapp1.1\FirstAspNetCore_API.csprojResolveAssemblyReference.cache
+F:\___Project___\FirstAspNetCore_API\FirstAspNetCore_API\obj\Debug\netcoreapp1.1\FirstAspNetCore_API.AssemblyInfo.cs
+F:\___Project___\FirstAspNetCore_API\FirstAspNetCore_API\bin\Debug\netcoreapp1.1\FirstAspNetCore_API.dll
+F:\___Project___\FirstAspNetCore_API\FirstAspNetCore_API\bin\Debug\netcoreapp1.1\FirstAspNetCore_API.pdb
+F:\___Project___\FirstAspNetCore_API\FirstAspNetCore_API\bin\Debug\netcoreapp1.1\FirstAspNetCore_Help.dll
+F:\___Project___\FirstAspNetCore_API\FirstAspNetCore_API\bin\Debug\netcoreapp1.1\FirstAspNetCore_Model.dll
+F:\___Project___\FirstAspNetCore_API\FirstAspNetCore_API\bin\Debug\netcoreapp1.1\FirstAspNetCore_Help.pdb
+F:\___Project___\FirstAspNetCore_API\FirstAspNetCore_API\bin\Debug\netcoreapp1.1\FirstAspNetCore_Model.pdb
+F:\___Project___\FirstAspNetCore_API\FirstAspNetCore_API\obj\Debug\netcoreapp1.1\FirstAspNetCore_API.dll
+F:\___Project___\FirstAspNetCore_API\FirstAspNetCore_API\obj\Debug\netcoreapp1.1\FirstAspNetCore_API.pdb
