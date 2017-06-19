@@ -1,0 +1,11 @@
+F:\___Project___\FirstAspNetCore_API\FirstAspNetCore_Dao\bin\Debug\netcoreapp1.1\FirstAspNetCore_Dao.deps.json
+F:\___Project___\FirstAspNetCore_API\FirstAspNetCore_Dao\bin\Debug\netcoreapp1.1\FirstAspNetCore_Dao.dll
+F:\___Project___\FirstAspNetCore_API\FirstAspNetCore_Dao\obj\Debug\netcoreapp1.1\FirstAspNetCore_Dao.csprojResolveAssemblyReference.cache
+F:\___Project___\FirstAspNetCore_API\FirstAspNetCore_Dao\obj\Debug\netcoreapp1.1\FirstAspNetCore_Dao.AssemblyInfo.cs
+F:\___Project___\FirstAspNetCore_API\FirstAspNetCore_Dao\bin\Debug\netcoreapp1.1\FirstAspNetCore_Dao.pdb
+F:\___Project___\FirstAspNetCore_API\FirstAspNetCore_Dao\bin\Debug\netcoreapp1.1\FirstAspNetCore_Help.dll
+F:\___Project___\FirstAspNetCore_API\FirstAspNetCore_Dao\bin\Debug\netcoreapp1.1\FirstAspNetCore_Model.dll
+F:\___Project___\FirstAspNetCore_API\FirstAspNetCore_Dao\bin\Debug\netcoreapp1.1\FirstAspNetCore_Model.pdb
+F:\___Project___\FirstAspNetCore_API\FirstAspNetCore_Dao\bin\Debug\netcoreapp1.1\FirstAspNetCore_Help.pdb
+F:\___Project___\FirstAspNetCore_API\FirstAspNetCore_Dao\obj\Debug\netcoreapp1.1\FirstAspNetCore_Dao.dll
+F:\___Project___\FirstAspNetCore_API\FirstAspNetCore_Dao\obj\Debug\netcoreapp1.1\FirstAspNetCore_Dao.pdb

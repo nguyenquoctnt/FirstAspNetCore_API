@@ -6,6 +6,13 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Settings\**" />
+    <Content Remove="Settings\**" />
+    <EmbeddedResource Remove="Settings\**" />
+    <None Remove="Settings\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Compile Remove="Controllers\ValuesController.cs" />
     <Compile Remove="Middlewares\AuthorizationAttribute.cs" />
   </ItemGroup>
@@ -24,6 +31,7 @@
     <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="1.0.0" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\FirstAspNetCore_Dao\FirstAspNetCore_Dao.csproj" />
     <ProjectReference Include="..\FirstAspNetCore_Help\FirstAspNetCore_Help.csproj" />
     <ProjectReference Include="..\FirstAspNetCore_Model\FirstAspNetCore_Model.csproj" />
   </ItemGroup>

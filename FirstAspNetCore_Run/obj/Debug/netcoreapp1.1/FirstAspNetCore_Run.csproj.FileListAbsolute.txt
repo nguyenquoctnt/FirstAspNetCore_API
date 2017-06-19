@@ -3,7 +3,6 @@ F:\___Project___\FirstAspNetCore_API\FirstAspNetCore_Run\bin\Debug\netcoreapp1.1
 F:\___Project___\FirstAspNetCore_API\FirstAspNetCore_Run\bin\Debug\netcoreapp1.1\FirstAspNetCore_Run.runtimeconfig.dev.json
 F:\___Project___\FirstAspNetCore_API\FirstAspNetCore_Run\bin\Debug\netcoreapp1.1\FirstAspNetCore_Run.dll
 F:\___Project___\FirstAspNetCore_API\FirstAspNetCore_Run\bin\Debug\netcoreapp1.1\FirstAspNetCore_Run.pdb
-F:\___Project___\FirstAspNetCore_API\FirstAspNetCore_Run\obj\Debug\netcoreapp1.1\FirstAspNetCore_Run.csprojResolveAssemblyReference.cache
 F:\___Project___\FirstAspNetCore_API\FirstAspNetCore_Run\obj\Debug\netcoreapp1.1\FirstAspNetCore_Run.AssemblyInfo.cs
 F:\___Project___\FirstAspNetCore_API\FirstAspNetCore_Run\obj\Debug\netcoreapp1.1\FirstAspNetCore_Run.dll
 F:\___Project___\FirstAspNetCore_API\FirstAspNetCore_Run\obj\Debug\netcoreapp1.1\FirstAspNetCore_Run.pdb

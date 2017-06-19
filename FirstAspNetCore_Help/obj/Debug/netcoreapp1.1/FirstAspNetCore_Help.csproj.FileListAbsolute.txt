@@ -4,4 +4,3 @@ F:\___Project___\FirstAspNetCore_API\FirstAspNetCore_Help\obj\Debug\netcoreapp1.
 F:\___Project___\FirstAspNetCore_API\FirstAspNetCore_Help\bin\Debug\netcoreapp1.1\FirstAspNetCore_Help.pdb
 F:\___Project___\FirstAspNetCore_API\FirstAspNetCore_Help\obj\Debug\netcoreapp1.1\FirstAspNetCore_Help.dll
 F:\___Project___\FirstAspNetCore_API\FirstAspNetCore_Help\obj\Debug\netcoreapp1.1\FirstAspNetCore_Help.pdb
-F:\___Project___\FirstAspNetCore_API\FirstAspNetCore_Help\obj\Debug\netcoreapp1.1\FirstAspNetCore_Help.csprojResolveAssemblyReference.cache

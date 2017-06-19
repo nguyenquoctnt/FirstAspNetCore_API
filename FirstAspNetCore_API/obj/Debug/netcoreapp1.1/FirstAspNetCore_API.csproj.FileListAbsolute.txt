@@ -11,3 +11,5 @@ F:\___Project___\FirstAspNetCore_API\FirstAspNetCore_API\bin\Debug\netcoreapp1.1
 F:\___Project___\FirstAspNetCore_API\FirstAspNetCore_API\bin\Debug\netcoreapp1.1\FirstAspNetCore_Model.pdb
 F:\___Project___\FirstAspNetCore_API\FirstAspNetCore_API\obj\Debug\netcoreapp1.1\FirstAspNetCore_API.dll
 F:\___Project___\FirstAspNetCore_API\FirstAspNetCore_API\obj\Debug\netcoreapp1.1\FirstAspNetCore_API.pdb
+F:\___Project___\FirstAspNetCore_API\FirstAspNetCore_API\bin\Debug\netcoreapp1.1\FirstAspNetCore_Dao.dll
+F:\___Project___\FirstAspNetCore_API\FirstAspNetCore_API\bin\Debug\netcoreapp1.1\FirstAspNetCore_Dao.pdb
